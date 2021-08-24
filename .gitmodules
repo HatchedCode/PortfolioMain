@@ -1,0 +1,9 @@
+[submodule "PortfolioBackend"]
+	path = PortfolioBackend
+	url = https://github.com/HatchedCode/PortfolioBackend.git
+[submodule "backend"]
+	path = backend
+	url = ./backend/
+[submodule "frontend"]
+	path = frontend
+	url = ./frontend/
